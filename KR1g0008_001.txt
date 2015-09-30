@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 九經三傳沿革例
-#+DATE: 2015-09-23 09:41:01
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:41.354069
+#+PROPERTY: ID KR1g0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 九經三傳沿革例
 <pb:KR1g0008_WYG_001-1a>¶
 欽定四庫全書¶
 　九經三傳沿革例　　　　　宋　岳珂　撰¶
@@ -614,4 +616,3 @@
 　¶
 　¶
 　九經三傳沿革例¶
-
